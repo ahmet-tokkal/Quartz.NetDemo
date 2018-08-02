@@ -1,0 +1,16 @@
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\QuartzDemo.exe.config
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\QuartzDemo.exe
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\QuartzDemo.pdb
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.dll
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.Serialization.Json.dll
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Newtonsoft.Json.xml
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.pdb
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.xml
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.Serialization.Json.pdb
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\bin\Debug\Quartz.Serialization.Json.xml
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\obj\Debug\QuartzDemo.csprojAssemblyReference.cache
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\obj\Debug\QuartzDemo.csproj.CoreCompileInputs.cache
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\obj\Debug\QuartzDemo.csproj.CopyComplete
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\obj\Debug\QuartzDemo.exe
+c:\users\ahmet.tokkal\source\repos\QuartzDemo\QuartzDemo\obj\Debug\QuartzDemo.pdb
